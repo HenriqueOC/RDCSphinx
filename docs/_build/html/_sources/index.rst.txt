@@ -17,7 +17,17 @@ Apresentar alternativas de soluções para implantação de um repositório arqu
    :maxdepth: 2
    :caption: Conteúdo:
 
-   modules
+   ClasseGeral
+   ConexaoBancoDje
+   ConexaoBancoPje
+   ConsultaDje
+   ConsultaPje
+   EnvioArquivematica
+   Imports
+   JobDje
+   JobPje
+   MetadatasDje
+   MetadatasPje
 
 Indices e tabelas
 ==================
